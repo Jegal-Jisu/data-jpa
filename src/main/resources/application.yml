@@ -20,3 +20,5 @@ spring:
 
 logging.level:
   org.hibernate.SQL: debug
+
+#git이름 변경 테스트
